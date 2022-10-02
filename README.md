@@ -1,4 +1,4 @@
-# Data-Analysis-No-show-appointments-from-kaggle-
+# Data-Analysis: No-show-appointments-from-kaggle
 This the first project in Data Analyst - ALX-T nanodgree program from Udacity
 
 We began investigating the data analysis process in this project.
